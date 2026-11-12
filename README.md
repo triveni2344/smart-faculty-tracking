@@ -1,1 +1,1 @@
-# smart-faculty-tracking
+# Smart-Faculty-Tracking
